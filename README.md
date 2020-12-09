@@ -1,6 +1,6 @@
 
 
- #   WORDPRESS RUNBOOK ON UBUNTU 16.04 
+ #   WORDPRESS RUNBOOK RUN
 
 1. **Install Linux VM** (REFER TO THE MANUAL)
 2. **Install Apache2** (RESTART NETWORK AFTER WITH " sudo service networking restart")
