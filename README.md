@@ -12,7 +12,7 @@
     2.	 sudo apt-get update
 	3.	 sudo apt-get install php7.2
 	
-	4B. **Install MySQL** " sudo apt-get install mysql-server " ( "RECORD PASSWORD YOU CREATED" )
+	4B. **Install MySQL** " sudo apt-get install mysql-server " ( "_RECORD PASSWORD YOU CREATED_" )
 
 	4C. **Install required PHP mods/plugins**
 	1.    sudo apt-get install libapache2-mod-php7.2
@@ -29,9 +29,9 @@
 6. **Download WordPress**(Using FTP/Curl)
 	6A. Navigate to where you want to install WP and download it with "_curl -O https://wordpress.org/latest.zip_" 
 
-	6B. **Install UnZip** " _sudo apt-get install unzip_ "
+	6B. **Install UnZip** "_sudo apt-get install unzip_"
 	
-	6C. **Run** _UnZip_ outside of the wordpress.zip directory to unzip the folder " _unzip wordpress.zip_ "
+	6C. **Run** _UnZip_ outside of the wordpress.zip directory to unzip the folder "_unzip wordpress.zip_ "
 
 7. **Restart Apache2** " sudo service apache2 restart "
 
