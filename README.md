@@ -1,7 +1,8 @@
 #   WORDPRESS RUNBOOK RUN
 
 1. **Install Linux VM** (REFER TO THE MANUAL)
-2. **Install Apache2** (RESTART NETWORK AFTER WITH " sudo service networking restart")
+2. **Install Apache2** 
+*(RESTART NETWORK AFTER WITH " sudo service networking restart")
 3. **SSH to server on CMD** [ USER ]@[ IP ] -p [ PORT ]
 
 4. **Install PHP/MYSQL SERVER** 
