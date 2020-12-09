@@ -3,7 +3,7 @@
  #   WORDPRESS RUNBOOK  
 
 1. **Install Linux VM** ( REFER TO THE MANUAL)
-2. **Install Apache2** (RESTART NETWORK AFTER WITH " sudo service networking restart")
+2. **Install Apache2** (RESTART NETWORK AFTER WITH "sudo service networking restart")
 3. **SSH to server on CMD** [ USER ]@[ IP ] -p [ PORT ] 
  
 4. **Install PHP/MYSQL SERVER** 
@@ -12,15 +12,15 @@
   2.	 sudo apt-get update
   3.	 sudo apt-get install php7.2
 	
-	4B. **Install MySQL** " sudo apt-get install mysql-server " ( _"RECORD PASSWORD YOU CREATED"_ )
+	4B. **Install MySQL** " sudo apt-get install mysql-server " ( "_RECORD PASSWORD YOU CREATED_" )
 
 	4C. **Install required PHP mods/plugins**
-	  1.    sudo apt-get install libapache2-mod-php7.2
+	  1.      sudo apt-get install libapache2-mod-php7.2
   	  2.	  sudo apt-get install php7.2-mysql
   	  3.	  sudo apt-get install php7.2-mbstring
 	  4.	  sudo apt-get install php7.2-mcrypt
 
-	4D. **Check status** of MySQL "sudo service mysql status"
+	4D. **Check status** of MySQL "_sudo service mysql status_"
 	
 	4E. **Restart MySQL** " _sudo service mysql restart_ "
 
