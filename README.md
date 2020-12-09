@@ -4,13 +4,13 @@
 
 1. **Install Linux VM** ( REFER TO THE MANUAL)
 2. **Install Apache2** (RESTART NETWORK AFTER WITH " sudo service networking restart")
-3. **SSH to server on CMD** [ USER ]@[ IP ] -p [ PORT ]
-
+3. **SSH to server on CMD** [ USER ]@[ IP ] -p [ PORT ] 
+ 
 4. **Install PHP/MYSQL SERVER** 
 	4A. **Install PHP** 
-	  1.	 sudo add-apt-repository ppa:ondrej/php 
-          2.	 sudo apt-get update
-	  3.	 sudo apt-get install php7.2
+  1.	 sudo add-apt-repository ppa:ondrej/php 
+  2.	 sudo apt-get update
+  3.	 sudo apt-get install php7.2
 	
 	4B. **Install MySQL** " sudo apt-get install mysql-server " ( _"RECORD PASSWORD YOU CREATED"_ )
 
