@@ -14,9 +14,9 @@
 
 	4C. **Install required PHP mods/plugins**
 		1.    sudo apt-get install libapache2-mod-php7.2
-  	2.	  sudo apt-get install php7.2-mysql
-  	3.	  sudo apt-get install php7.2-mbstring
-	4.	  sudo apt-get install php7.2-mcrypt
+  	        2.	  sudo apt-get install php7.2-mysql
+  	        3.	  sudo apt-get install php7.2-mbstring
+	        4.	  sudo apt-get install php7.2-mcrypt
 
 	4D. **Check status** of MySQL "_sudo service mysql status_"
 	
