@@ -8,9 +8,9 @@
  
 4. **Install PHP/MYSQL SERVER** 
 	4A. **Install PHP**        
-       1.	 sudo add-apt-repository ppa:ondrej/php.   
-       2.	 sudo apt-get update
-       3.	 sudo apt-get install php7.2
+              1.	 sudo add-apt-repository ppa:ondrej/php.   
+              2.	 sudo apt-get update
+              3.	 sudo apt-get install php7.2
 	
 	4B. **Install MySQL** " sudo apt-get install mysql-server " ( "_RECORD PASSWORD YOU CREATED_" )
 
